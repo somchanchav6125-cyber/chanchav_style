@@ -5,6 +5,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&height=70&lines=Frontend+Developer;Backend+Developer;Mobile+Developer;Full+Stack+Developer;Always+Learning+New+Things;Debugging+in+Progress...;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 </h3>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -33,9 +34,8 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
 <details>
-<summary>📱 <b>MOBILE DEVELOPMENT</summary>
+<summary>📱 <b>MOBILE DEVELOPMENT</b></summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 </details>
+
 <details>
 <summary>🔧 <b>BACKEND & FRAMEWORKS</b></summary>
 <br>
@@ -70,12 +71,13 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 </details>
+
 <details>
-<summary>🌐 <b>TOOLS DEVELOPMENT</b></summary>
+<summary>🔧 <b>TOOLS DEVELOPMENT</b></summary>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/python5-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 </details>
 
@@ -97,10 +99,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" />
 </p>
 </details>
 
@@ -110,7 +110,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanchav&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somchanchav6125-cyber&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="90%" />
 </p>
 
 <!-- Animated Divider -->
@@ -119,7 +119,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanchav&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somchanchav6125-cyber&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
 <!-- Animated Divider -->
@@ -139,9 +139,9 @@
 ## 📊 Profile Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chanchav&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/chanchav?label=FOLLOWERS&style=for-the-badge&color=6A5ACD" />
-  <img src="https://img.shields.io/github/stars/chanchav?label=STARS&style=for-the-badge&color=6A5ACD" />
+  <img src="https://komarev.com/ghpvc/?username=somchanchav6125-cyber&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/somchanchav6125-cyber?label=FOLLOWERS&style=for-the-badge&color=6A5ACD" />
+  <img src="https://img.shields.io/github/stars/somchanchav6125-cyber?label=STARS&style=for-the-badge&color=6A5ACD" />
 </p>
 
 <!-- Animated Divider -->
